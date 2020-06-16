@@ -5435,6 +5435,12 @@ msgstr "未找到結果"
 #: Views\Shared\_ScheduleRecipients.cshtml:63
 #: Views\Shared\_ScheduleRecipients.cshtml:66
 #: Views\UserManagement\_AddUserInGroup.cshtml:31
+#: Views\Items\_DataSourceSupportList.cshtml:9909
+#: Views\Shared\_SchedulerDialog.cshtml:63
+#: Views\Permission\_AddGroupPermission.cshtml:123
+#: Views\Permission\_AddUserPermission.cshtml:123
+#: Views\Report\_ProcessOptions.cshtml:123
+#: Views\Shared\_EmailEditor.cshtml:123
 msgid "No results match"
 msgstr "沒有結果匹配"
 
@@ -10659,3 +10665,19 @@ msgstr "所有時間表"
 #: Scripts\Core\LocalizationContent.js:3111
 msgid "Specific Schedule"
 msgstr "具體時間表"
+
+#: Views\Administration\_ActiveDirectorySettings.cshtml:3111
+msgid "Enable Global Default Authentication"
+msgstr "啟用全局默認身份驗證"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Enable Default Authentication"
+msgstr "啟用默認身份驗證"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Default Authentication Provider"
+msgstr "默認身份驗證提供程序"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "None"
+msgstr "沒有"
