@@ -5435,6 +5435,12 @@ msgstr "No se han encontrado resultados"
 #: Views\Shared\_ScheduleRecipients.cshtml:63
 #: Views\Shared\_ScheduleRecipients.cshtml:66
 #: Views\UserManagement\_AddUserInGroup.cshtml:31
+#: Views\Items\_DataSourceSupportList.cshtml:9909
+#: Views\Shared\_SchedulerDialog.cshtml:63
+#: Views\Permission\_AddGroupPermission.cshtml:123
+#: Views\Permission\_AddUserPermission.cshtml:123
+#: Views\Report\_ProcessOptions.cshtml:123
+#: Views\Shared\_EmailEditor.cshtml:123
 msgid "No results match"
 msgstr "resultados no encontrados"
 
@@ -10660,4 +10666,19 @@ msgstr "Todos los horarios"
 msgid "Specific Schedule"
 msgstr "Horario Específico"
 
+#: Views\Administration\_ActiveDirectorySettings.cshtml:3111
+msgid "Enable Global Default Authentication"
+msgstr "Habilitar autenticación global predeterminada"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Enable Default Authentication"
+msgstr "Habilitar autenticación predeterminada"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Default Authentication Provider"
+msgstr "Proveedor de autenticación predeterminado"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "None"
+msgstr "ninguna"
 

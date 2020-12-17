@@ -5435,6 +5435,12 @@ msgstr "لم يتم العثور على نتائج"
 #: Views\Shared\_ScheduleRecipients.cshtml:63
 #: Views\Shared\_ScheduleRecipients.cshtml:66
 #: Views\UserManagement\_AddUserInGroup.cshtml:31
+#: Views\Items\_DataSourceSupportList.cshtml:9909
+#: Views\Shared\_SchedulerDialog.cshtml:63
+#: Views\Permission\_AddGroupPermission.cshtml:123
+#: Views\Permission\_AddUserPermission.cshtml:123
+#: Views\Report\_ProcessOptions.cshtml:123
+#: Views\Shared\_EmailEditor.cshtml:123
 msgid "No results match"
 msgstr "لا توجد نتائج مطابقة"
 
@@ -10660,4 +10666,18 @@ msgstr "جميع الجداول"
 msgid "Specific Schedule"
 msgstr "جدول محدد"
 
+#: Views\Administration\_ActiveDirectorySettings.cshtml:3111
+msgid "Enable Global Default Authentication"
+msgstr "تمكين المصادقة الافتراضية العامة"
 
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Enable Default Authentication"
+msgstr "تمكين المصادقة الافتراضية"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Default Authentication Provider"
+msgstr "موفر المصادقة الافتراضي"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "None"
+msgstr "لا يوجد"
