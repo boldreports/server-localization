@@ -5435,6 +5435,12 @@ msgstr "Keine Ergebnisse gefunden"
 #: Views\Shared\_ScheduleRecipients.cshtml:63
 #: Views\Shared\_ScheduleRecipients.cshtml:66
 #: Views\UserManagement\_AddUserInGroup.cshtml:31
+#: Views\Items\_DataSourceSupportList.cshtml:9909
+#: Views\Shared\_SchedulerDialog.cshtml:63
+#: Views\Permission\_AddGroupPermission.cshtml:123
+#: Views\Permission\_AddUserPermission.cshtml:123
+#: Views\Report\_ProcessOptions.cshtml:123
+#: Views\Shared\_EmailEditor.cshtml:123
 msgid "No results match"
 msgstr "Keine passenden Ergebnisse"
 
@@ -10664,3 +10670,18 @@ msgstr "Spezifischer Zeitplan"
 msgid "No records to display"
 msgstr "Keine Datensätze zum Anzeigen"
 
+#: Views\Administration\_ActiveDirectorySettings.cshtml:3111
+msgid "Enable Global Default Authentication"
+msgstr "Aktivieren Sie die globale Standardauthentifizierung"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Enable Default Authentication"
+msgstr "Aktivieren Sie die Standardauthentifizierung"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "Default Authentication Provider"
+msgstr "Standardauthentifizierungsanbieter"
+
+#: Views\Administration\_DefaultAuthtentication.cshtml:3111
+msgid "None"
+msgstr "Keiner"
