@@ -1,5 +1,11 @@
 ﻿msgid ""
 msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Bold_Report_server\n"
+"Language: en-AU\n
 
 #: Scripts\Core\LocalizationContent.js:672
 msgid " , and the recipients will be notified when the condition has been satisfied."
